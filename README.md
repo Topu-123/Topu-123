@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Ethical hacking
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:Topu
+- ⚡ Fun fact:I don't Know anything
 
 <!---
 Topu-123/Topu-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
